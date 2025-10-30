@@ -8,7 +8,7 @@
 - 📦 主なファイル
 - `moe.py` — Switch-style Top‑1 MoE 実装
 - `train_tinystories.py` — 学習・評価スクリプト
-- `scripts/run_all.sh` — Baseline/全層MoE/RJ×CF グリッド一括実行
+- `tools/run_all.sh` — Baseline/全層MoE/RJ×CF グリッド一括実行
 
 
 ## 最小の使い方
