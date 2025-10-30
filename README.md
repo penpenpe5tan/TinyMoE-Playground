@@ -13,4 +13,4 @@
 
 ## 最小の使い方
 ```bash
-bash scripts/run_all.sh
+bash tools/run_all.sh
