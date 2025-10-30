@@ -6,7 +6,7 @@
 
 - [📄 解説・結果](https://github.com/penpenpe5tan/penpenpe5tan.github.io/blob/main/projects/moe.md)
 - 📦 主なファイル
-- `moe.py` — Switch-style Top‑1 MoE 実装
+- `moe.py` — Top‑1 MoE 実装
 - `train_tinystories.py` — 学習・評価スクリプト
 - `tools/run_all.sh` — Baseline/全層MoE/RJ×CF グリッド一括実行
 
