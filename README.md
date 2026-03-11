@@ -13,4 +13,5 @@
 
 ## 最小の使い方
 ```bash
+cd tinyStories_MoE
 bash tools/run_all.sh
